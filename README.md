@@ -1,4 +1,4 @@
 # Test
 This is a test readme file
 <br>
-Author: Deekshith Shetty
+Author: Deekshith J Shetty
